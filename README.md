@@ -63,7 +63,7 @@ touch .env.local
 
 ## 2. Add the following line to .env.local
 ```bash
-NEXT_PUBLIC_WEATHER_API_KEY=your_openweathermap_api_key
+VITE_OPENWEATHER_API_KEY=your_openweathermap_api_key
 ```
 👉 You can get a free API key from OpenWeatherMap
 
