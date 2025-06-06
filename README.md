@@ -35,8 +35,8 @@ This app provides real-time weather updates, 5-day forecasts, and interactive we
 
 > _(Insert app screenshots here by uploading in GitHub or storing in `/public/assets/`)_
 
-![Weather UI](public/assets/screenshot-weather-ui.png)  
-![Forecast Graph](public/assets/screenshot-forecast-graph.png)
+![Weather UI](public/ss1.png)  
+![Forecast Graph](public/ss2.png)
 
 ---
 
