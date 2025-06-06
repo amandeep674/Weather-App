@@ -81,7 +81,7 @@ export function CurrentWeather({ data, locationName }: CurrentWeatherProps) {
             <div className="relative flex aspect-square w-full max-w-[200px] items-center justify-center">
               <img
                 src={`https://openweathermap.org/img/wn/${currentWeather.icon}@4x.png`}
-                alt={currentWeather.description}
+                alt={"currentWeather.description"}
                 className="h-full w-full object-contain"
               />
               <div className="absolute bottom-0 text-center">
