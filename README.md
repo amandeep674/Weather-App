@@ -67,6 +67,7 @@ VITE_OPENWEATHER_API_KEY=your_openweathermap_api_key
 ```
 👉 You can get a free API key from OpenWeatherMap
 
+---
 
 ## 🧪 Run the App
 
