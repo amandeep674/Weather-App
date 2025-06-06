@@ -54,4 +54,26 @@ cd weather-app
 npm install
 ```
 
+## 🔐 Environment Variables
 
+## 1. Create a .env.local file in the root directory
+```bash
+touch .env.local
+```
+
+## 2. Add the following line to .env.local
+```bash
+NEXT_PUBLIC_WEATHER_API_KEY=your_openweathermap_api_key
+```
+👉 You can get a free API key from OpenWeatherMap
+
+
+## 🧪 Run the App
+
+Start the development server:
+```bash
+npm run dev
+```
+Then open your browser at:
+
+http://localhost:xxxx
