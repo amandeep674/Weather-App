@@ -53,6 +53,22 @@ cd weather-app
 npm install
 ```
 
+## 🔑 How to Get OpenWeatherMap API Key
+
+To use this Weather App, you need an API key from **OpenWeatherMap**. Follow the steps below to generate your key:
+
+---
+
+### 📝 Step-by-Step Guide
+
+1. 🌐 Go to [https://openweathermap.org/api](https://openweathermap.org/api)
+2. 🔐 Sign up for a free account (or log in if you already have one)
+3. 👤 Navigate to your **Dashboard**
+4. ➕ Click on **"Create API Key"** (usually under the "API Keys" section)
+5. 📝 Give it a name (e.g., `weather-app-key`)
+6. ✅ Your API key will be generated — **copy it**
+
+
 ## 🔐 Environment Variables
 
 ## 1. Create a .env.local file in the root directory
